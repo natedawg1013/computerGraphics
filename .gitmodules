@@ -1,0 +1,3 @@
+[submodule "termProject/GL3DVisualizer"]
+	path = termProject/GL3DVisualizer
+	url = git@github.com:natedawg1013/GL3DVisualizer.git
